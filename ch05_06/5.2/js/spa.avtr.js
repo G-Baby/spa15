@@ -11,4 +11,5 @@
 */
 /*global $, spa */
 
+// It takes a mighty big dog to weigh a ton 
 spa.avtr = (function () { return {}; }());
